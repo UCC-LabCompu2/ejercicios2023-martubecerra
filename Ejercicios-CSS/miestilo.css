@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, rgba(192, 185, 250, 0.99), #f3e9ff);
+}
+div {
+    border: 2.5px dotted #2f226b;
+    margin: 10px;
+    padding: 5px 30px;
+    border-radius: 20px;
+    box-shadow: 3px 3px #1b0b52;
+}
+#principal {
+    width: 50px;
+    float: left;
+    border-radius: 50%;
+}
+div.especial h3 {
+    font-family: 'Noto Sans', sans-serif;
+    text-shadow: 1.5px 1.5px #a1a1a1;
+}
